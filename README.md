@@ -32,8 +32,8 @@ Aplikasi frontend berbasis web untuk berinteraksi dengan sistem Multi Agent AI C
 
 1. **Clone repositori ini**:
    ```bash
-   git clone https://github.com/username/multi-agent-ai-chat-fe.git
-   cd multi-agent-ai-chat-fe
+   git clone https://github.com/hef-max/AI-Multi-Agent-CrewAI.git
+   cd AI-Multi-Agent-CrewAI
    ```
 
 2. **Install dependencies**:
@@ -111,7 +111,7 @@ Proyek ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanj
 
 ## Kontak
 
-Untuk pertanyaan atau dukungan, hubungi tim pengembang di [email@example.com](mailto:email@example.com).
+Untuk pertanyaan atau dukungan, hubungi tim pengembang di [hefrykun10@gmail.com](hefrykun10@gmail.com).
 
 ---
 
